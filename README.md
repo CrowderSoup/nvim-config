@@ -35,3 +35,4 @@ lua/
     ├── cspell.lua       -- cspell LSP integration
     └── snacks.lua       -- snacks.nvim explorer/picker tweaks
 ```
+<!-- repo-pr end-to-end check; safe to close -->
