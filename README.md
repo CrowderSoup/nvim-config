@@ -35,3 +35,4 @@ lua/
     ├── cspell.lua       -- cspell LSP integration
     └── snacks.lua       -- snacks.nvim explorer/picker tweaks
 ```
+<!-- sweep test sw-open -->
